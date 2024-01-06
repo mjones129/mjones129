@@ -7,3 +7,5 @@ I'm a 3D artist and fullstack developer.
 :fast_forward: Themegen, a minimal, terminal-based theme generator for WordPress developers.
 
 :flashlight: Simply Dark, a dark-mode plugin for the WordPress admin dashboard
+
+:rocket: Automated Wordpress theme deployment (coming soon)
