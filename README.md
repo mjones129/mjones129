@@ -1,6 +1,6 @@
 # Howdy! I'm Matt :wave:
 
-I'm a 3D artist and fullstack developer.
+I'm a full stack developer and 3d artist.
 
 ## Here's what I'm working on
 
