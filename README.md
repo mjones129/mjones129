@@ -12,6 +12,7 @@ I'm a full stack developer and 3d artist.
 
 ## I'm currently learning
 
-📦 [Webpack 5](https://webpack.js.org/)
+🦾 [Terminus](https://github.com/pantheon-systems/terminus)
 
-🎆 [TS Particles](https://particles.js.org/)
+🤖 [WP-CLI](https://wp-cli.org/)
+
