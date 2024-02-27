@@ -8,7 +8,7 @@ I'm a full stack developer and 3d artist.
 
 :flashlight: Simply Dark, a dark-mode plugin for the WordPress admin dashboard
 
-:rocket: Automated Wordpress theme deployment (coming soon)
+:rocket: Automated Wordpress update tracking and logging (coming soon)
 
 ## I'm currently learning
 
