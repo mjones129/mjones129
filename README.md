@@ -16,3 +16,5 @@ I'm a full stack developer and 3d artist.
 
 🤖 [WP-CLI](https://wp-cli.org/)
 
+📚 [MySQL](https://mysql.com)
+
