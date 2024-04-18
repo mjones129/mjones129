@@ -1,4 +1,4 @@
-# Howdy! I'm Matt :wave:
+# Howdy! I'm Matt
 
 I'm a full stack developer and 3d artist.
 
