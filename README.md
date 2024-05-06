@@ -14,7 +14,7 @@ I'm a full stack developer and 3d artist.
 
 🦾 [Terminus](https://github.com/pantheon-systems/terminus)
 
-🤖 [WP-CLI](https://wp-cli.org/)
+🤖 [LocalWP Add-On Development](https://localwp.com/get-involved/build/)
 
 📚 [MySQL](https://mysql.com)
 
