@@ -1,6 +1,6 @@
 # Howdy! I'm Matt
 
-I'm a full stack developer and 3d artist.
+I'm a full stack developer with 5 years experience working on custom WordPress themes and plugins.
 
 ## Here's what I'm working on
 
