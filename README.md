@@ -1,20 +1,19 @@
 # Howdy! I'm Matt
 
-I'm a full stack developer with 5 years experience working on custom WordPress themes and plugins.
+I'm a full stack developer with 5 years experience working on custom WordPress themes and plugins. Heavy terminal usage with over 6 years of experience in Linux. Obsessed with automation. Always willing to put the work in up front to build systems and processes that make devs lives easier in the future.
 
-## Here's what I'm working on
+## Some tools and plugins I've built
 
-:fast_forward: Themegen, a minimal, terminal-based theme generator for WordPress developers.
+:fast_forward: Themegen, a minimal, terminal-based theme generator for WordPress developers. [https://github.com/mjones129/themegen](https://github.com/mjones129/themegen)
 
-:flashlight: Simply Dark, a dark-mode plugin for the WordPress admin dashboard
-
-:rocket: Automated Wordpress update tracking and logging (coming soon)
+:flashlight: Simply Dark, a dark-mode plugin for the WordPress admin dashboard [https://github.com/mjones129/simply-dark](https://github.com/mjones129/simply-dark)
 
 ## I'm currently learning
 
-🦾 [Terminus](https://github.com/pantheon-systems/terminus)
+🤖: [Puppeteer](https://pptr.dev/) Latest experiement: [https://github.com/mjones129/puppeteer](https://github.com/mjones129/puppeteer)
 
-🤖 [LocalWP Add-On Development](https://localwp.com/get-involved/build/)
+📱: [React Native](https://reactnative.dev/) Coursework, experiments, and mini-apps: [https://github.com/mjones129/rn-starter](https://github.com/mjones129/rn-starter)
 
-📚 [MySQL](https://mysql.com)
+📚 [MySQL](https://mysql.com) Coursework: [https://github.com/mjones129/sql-queries](https://github.com/mjones129/sql-queries)
+
 
