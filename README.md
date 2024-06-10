@@ -10,10 +10,10 @@ I'm a full stack developer with 5 years experience working on custom WordPress t
 
 ## I'm currently learning
 
-🤖: [Puppeteer](https://pptr.dev/) Latest experiement: [https://github.com/mjones129/puppeteer](https://github.com/mjones129/puppeteer)
+🤖: [Puppeteer](https://pptr.dev/) ![30%](https://progress-bar.dev/30) Latest experiement: [https://github.com/mjones129/puppeteer](https://github.com/mjones129/puppeteer)
 
-📱: [React Native](https://reactnative.dev/) Coursework, experiments, and mini-apps: [https://github.com/mjones129/rn-starter](https://github.com/mjones129/rn-starter)
+📱: [React Native](https://reactnative.dev/) ![10%](https://progress-bar.dev/10) Coursework, experiments, and mini-apps: [https://github.com/mjones129/rn-starter](https://github.com/mjones129/rn-starter)
 
-📚 [MySQL](https://mysql.com) Coursework: [https://github.com/mjones129/sql-queries](https://github.com/mjones129/sql-queries)
+📚 [MySQL](https://mysql.com) ![50%](https://progress-bar.dev/50) Coursework: [https://github.com/mjones129/sql-queries](https://github.com/mjones129/sql-queries)
 
 
