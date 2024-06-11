@@ -8,6 +8,8 @@ I'm a full stack developer with 5 years experience working on custom WordPress t
 
 :flashlight: Simply Dark, a dark-mode plugin for the WordPress admin dashboard [https://github.com/mjones129/simply-dark](https://github.com/mjones129/simply-dark)
 
+:control_knobs: Automatic WordPress login, a CLI tool that opens a browser and logs in to any WordPress site with a single command. [https://github.com/mjones129/puppeteer](https://github.com/mjones129/puppeteer)
+
 ## I'm currently learning
 
 🤖: [Puppeteer](https://pptr.dev/) ![40%](https://progress-bar.dev/40) Latest experiement: [https://github.com/mjones129/puppeteer](https://github.com/mjones129/puppeteer)
