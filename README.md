@@ -12,10 +12,10 @@ I'm a full stack developer with 5 years experience working on custom WordPress t
 
 ## I'm currently learning
 
-🔎: SEO Certification ![34%](https://progress-bar.dev/34)
+🔎: SEO Certification 30% 🟩🟩🟩🔳🔳🔳🔳🔳🔳🔳
 
-📱: [React Native](https://reactnative.dev/) ![10%](https://progress-bar.dev/10) Coursework, experiments, and mini-apps: [https://github.com/mjones129/rn-starter](https://github.com/mjones129/rn-starter)
+📱: [React Native](https://reactnative.dev/) 10% 🟩🔳🔳🔳🔳🔳🔳🔳🔳🔳 Coursework, experiments, and mini-apps: [https://github.com/mjones129/rn-starter](https://github.com/mjones129/rn-starter)
 
-📚: [MySQL](https://mysql.com) ![100%](https://progress-bar.dev/100) Coursework: [https://github.com/mjones129/sql-queries](https://github.com/mjones129/sql-queries)
+📚: [MySQL](https://mysql.com) 100% 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 Coursework: [https://github.com/mjones129/sql-queries](https://github.com/mjones129/sql-queries)
 
 
