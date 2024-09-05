@@ -6,7 +6,7 @@ I'm a full stack developer with 5 years experience working on custom WordPress t
 
 :fast_forward: Themegen, a minimal, terminal-based theme generator for WordPress developers. [https://github.com/mjones129/themegen](https://github.com/mjones129/themegen)
 
-:flashlight: Simply Dark, a dark-mode plugin for the WordPress admin dashboard [https://github.com/mjones129/simply-dark](https://github.com/mjones129/simply-dark)
+🏍️ Bike Trader, a full-crud web app built on React. [https://github.com/mjones129/bike-trader](https://github.com/mjones129/bike-trader)
 
 :control_knobs: Automatic WordPress login, a CLI tool that opens a browser and logs in to any WordPress site with a single command. [https://github.com/mjones129/puppeteer](https://github.com/mjones129/puppeteer)
 
@@ -14,7 +14,7 @@ I'm a full stack developer with 5 years experience working on custom WordPress t
 
 🔎: SEO Certification 30% 🟩🟩🟩🔳🔳🔳🔳🔳🔳🔳
 
-📱: [React Native](https://reactnative.dev/) 10% 🟩🔳🔳🔳🔳🔳🔳🔳🔳🔳 Coursework, experiments, and mini-apps: [https://github.com/mjones129/rn-starter](https://github.com/mjones129/rn-starter)
+🎮: [ThreeJS](https://threejs.org) 22% 🟩🟩🔳🔳🔳🔳🔳🔳🔳🔳 
 
 📚: [MySQL](https://mysql.com) 100% 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 Coursework: [https://github.com/mjones129/sql-queries](https://github.com/mjones129/sql-queries)
 
