@@ -14,7 +14,7 @@ I'm a full stack developer with 5 years experience working on custom WordPress t
 
 🔎: SEO Certification 30% 🟩🟩🟩🔳🔳🔳🔳🔳🔳🔳
 
-🎮: [ThreeJS](https://threejs.org) 24% 🟩🟩🔳🔳🔳🔳🔳🔳🔳🔳 
+🎮: [ThreeJS](https://threejs.org) 26% 🟩🟩🔳🔳🔳🔳🔳🔳🔳🔳 
 
 📚: [MySQL](https://mysql.com) 100% 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 Coursework: [https://github.com/mjones129/sql-queries](https://github.com/mjones129/sql-queries)
 
