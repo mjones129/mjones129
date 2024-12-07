@@ -4,6 +4,8 @@ I'm a full stack developer with 5 years experience working on custom WordPress t
 
 ## Some tools and plugins I've built
 
+📦 A Bash script that migrates/backs up WordPress sites hosted on any Ubuntu-based VPS to virtually any cloud storage solution every 24 hours. It also deletes remote backups older than so many days before uploading a new backup for the day. Backups can easily be "restored" to any environment (local, production, staging) with a restoration script.
+
 :fast_forward: Themegen, a minimal, terminal-based theme generator for WordPress developers. [https://github.com/mjones129/themegen](https://github.com/mjones129/themegen)
 
 🏍️ Bike Trader, a full-crud web app built on React. [https://github.com/mjones129/bike-trader](https://github.com/mjones129/bike-trader)
