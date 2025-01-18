@@ -20,4 +20,6 @@ I'm a full stack developer with 5 years experience working on custom WordPress t
 
 📚: [MySQL](https://mysql.com) 100% 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 Coursework: [https://github.com/mjones129/sql-queries](https://github.com/mjones129/sql-queries)
 
+🪟: [C# Certification](https://www.freecodecamp.org/certification/mjones129/foundational-c-sharp-with-microsoft) 100%: 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+
 
